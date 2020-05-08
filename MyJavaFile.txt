@@ -9,5 +9,8 @@ class Myclass {
 		
 		//Change 06 : Changes made in remote repo to test Pull
 		System.out.println("Changes made in remote repo to test Pull");
+		
+		//Change 07 : Changes to understand Fetch.
+		System.out.println("Changes to understand Fetch");
 }
 
