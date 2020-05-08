@@ -6,5 +6,8 @@ class Myclass {
 
 		//Change 05 : Changes to commit to remote
 		System.out.println("Changes to commit to remote");
+		
+		//Change 06 : Changes made in remote repo to test Pull
+		System.out.println("Changes made in remote repo to test Pull");
 }
 
