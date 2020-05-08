@@ -3,8 +3,8 @@ This is a Java File
 class Myclass {
 	public static void main(String args[]){
 		System.out.println("Welcome to Git");
+
+		//Change 05 : Changes to commit to remote
+		System.out.println("Changes to commit to remote");
 }
 
-//Incremental Change 01
-//Incremental Change 02 : Test Git Diff
-//Incremental Change 03 : git diff on multiple files
