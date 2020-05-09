@@ -7,8 +7,11 @@ class Myclass {
 		System.out.println("This change is made by user 2");
 		Myclass my = new Myclass();
 
-		System.out.println("Change for Testing Conflict"+Conflicting statement);
-		Myclass my = new MyWrongClass();
-		my.math.square();
+
+		//Change 02 : Change for resolving Bug to test 3 way merge.
+		System.out.println("Change for resolving Bug to test 3 way merge");
+		System.out.println("Change for Testing Conflict");
+		Myclass my = new Myclass();
+		my.math.util();
 }
 
