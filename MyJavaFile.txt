@@ -7,5 +7,9 @@ class Myclass {
 		//Change 01 : Bug has been resolved.
 		System.out.println("Bug has been resolved");
 		Myclass my = new Myclass();
+
+		//Change 02 : Change for resolving Bug to test 3 way merge.
+		System.out.println("Change for resolving Bug to test 3 way merge");
+		System.out.println("Change for Testing Conflict");
 }
 
