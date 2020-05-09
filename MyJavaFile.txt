@@ -11,5 +11,9 @@ class Myclass {
 		//Change 02 : Change for resolving Bug to test 3 way merge.
 		System.out.println("Change for resolving Bug to test 3 way merge");
 		System.out.println("Change for Testing Conflict");
+		Myclass my = new Myclass();
+		my.math.util();
+
+			
 }
 
