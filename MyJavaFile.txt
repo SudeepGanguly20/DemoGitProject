@@ -3,9 +3,12 @@ This is a Java File
 class Myclass {
 	public static void main(String args[]){
 		System.out.println("Welcome to Git");
-
-		//Change 01 : Bug has been resolved.
-		System.out.println("Bug has been resolved");
+		//Change 01 : This change is made by user 2.
+		System.out.println("This change is made by user 2");
 		Myclass my = new Myclass();
+
+		System.out.println("Change for Testing Conflict"+Conflicting statement);
+		Myclass my = new MyWrongClass();
+		my.math.square();
 }
 
