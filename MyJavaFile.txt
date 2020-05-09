@@ -4,13 +4,8 @@ class Myclass {
 	public static void main(String args[]){
 		System.out.println("Welcome to Git");
 
-		//Change 05 : Changes to commit to remote
-		System.out.println("Changes to commit to remote");
-		
-		//Change 06 : Changes made in remote repo to test Pull
-		System.out.println("Changes made in remote repo to test Pull");
-		
-		//Change 07 : Changes to understand Fetch.
-		System.out.println("Changes to understand Fetch");
+		//Change 01 : Bug has been resolved.
+		System.out.println("Bug has been resolved");
+		Myclass my = new Myclass();
 }
 
