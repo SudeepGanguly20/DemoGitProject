@@ -17,6 +17,6 @@ class Myclass {
 		//Changes 03 : Changes to test Rebasing
 		System.out.println("Changes to test Rebasing");
 		Myclass my = new MyDifferentclass();
-		my.math.quadruple();
+		my.math.cube();
 }
 
