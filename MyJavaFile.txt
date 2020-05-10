@@ -18,5 +18,10 @@ class Myclass {
 		System.out.println("Changes to test Rebasing");
 		Myclass my = new MyDifferentclass();
 		my.math.cube();
+
+		//Change 04 : Changes to test Rebasing II
+		System.out.println("Changes to test Rebasing II");
+		Myclass my = new Myclass();
+		my.math.cube();
 }
 
