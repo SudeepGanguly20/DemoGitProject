@@ -22,6 +22,6 @@ class Myclass {
 		//Change 04 : Changes to test Rebasing II
 		System.out.println("Changes to test Rebasing II");
 		Myclass my = new MyclassX();
-		my.math.cubeX();
+		my.math.Quadruple();
 }
 
